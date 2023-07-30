@@ -1,0 +1,22 @@
+.DataGrid {
+  background-color: #777777;
+  color:#ffffff;
+}
+
+.DataGrid table {
+  background-color: #777777;
+  border-collapse: collapse;
+}
+  
+.DataGrid th {
+  border-bottom: 1px solid #ffffff;
+  font-weight: bolder;
+  color:#ffffff;
+  padding: 5px 5px 5px 5px;
+}
+
+.DataGrid td {
+  border-bottom: 1px solid #ffffff;
+  color:#ffffff;
+  padding: 5px 5px 5px 5px;
+}

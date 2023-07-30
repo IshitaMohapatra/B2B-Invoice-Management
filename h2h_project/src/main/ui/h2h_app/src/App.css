@@ -1,0 +1,40 @@
+.App {
+  background-color: #777777;
+  text-align: center;
+  color:#ffffff;
+}
+
+header {
+  background-color: #ffffff;
+  min-height: 10px;
+  padding: 20px;
+  color: #db4437;
+  font-weight: bold;
+  font-size: large;
+}
+
+footer {
+  position: fixed;
+  background-color: #ffffff;
+  color: black;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  text-align: center;
+}
+
+.hrc-logo {
+  height: 30px;
+  pointer-events: none;
+}
+
+.abc-logo {
+  height: 30px;
+  pointer-events: none;
+  float: left;
+}
+
+.text {
+  text-align: left;
+}

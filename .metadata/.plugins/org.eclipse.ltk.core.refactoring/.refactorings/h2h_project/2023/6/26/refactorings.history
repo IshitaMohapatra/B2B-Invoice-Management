@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.highradius.servlets.SearchingServlet&apos; to &apos;SearchServlet&apos;&#x0D;&#x0A;- Original project: &apos;h2h_project&apos;&#x0D;&#x0A;- Original element: &apos;com.highradius.servlets.SearchingServlet&apos;&#x0D;&#x0A;- Renamed element: &apos;com.highradius.servlets.SearchServlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SearchingServlet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.highradius.servlets{SearchingServlet.java[SearchingServlet" matchStrategy="1" name="SearchServlet" qualified="false" references="true" similarDeclarations="false" stamp="1687692037813" textual="false" version="1.0"/>
+</session>
